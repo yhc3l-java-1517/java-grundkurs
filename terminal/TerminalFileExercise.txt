@@ -1,0 +1,17 @@
+Working with files in terminal
+
+Use the following link to help you:
+https://github.com/0nn0/terminal-mac-cheatsheet/wiki/Terminal-Cheatsheet-for-Mac-(-basics-)
+
+1) Using the cd command in the terminal navigate to your Documents folder.
+2) Using the terminal create a folder there called stuff.
+3) Navigate into stuff and create a directory called moreStuff.
+4) Using the terminal copy the entire testFolder and it's contents from it's current location to your stuff/moreStuff folder. (Hint you will need a -r flag, and take a look at the pwd command)
+5) Go back to the root directory level for your user ~.
+6) Using the touch command create a file called aFile.txt in the home directory.
+7) Rename the file aFile.txt to bFile.txt
+8) Delete the file called bFile.txt.
+9) Delete the directory ~/Documents/stuff and all its contents
+
+10) Complete the following course
+
