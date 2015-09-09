@@ -1,0 +1,5 @@
+#Taken from http://www.ntu.edu.sg/home/ehchua/programming/java/J2a_BasicsExercises.html#zz-4.
+
+Exercise GradesAverage (Array): Write a program called GradesAverage, which prompts user for the number of students, reads it from the keyboard, and saves it in an int variable called numStudents. It then prompts user for the grades of each of the students and saves them in an int array called grades.  Your program shall check that the grade is between 0 and 100.
+
+Use a for-each style loop to print all the grades to the terminal after they have been input.

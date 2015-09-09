@@ -1,0 +1,11 @@
+You are going to build a zoo later on in this course.
+
+Your job today is to create an animal class and then use it in a program to create several different types of animals.  
+
+The animals you will create are a penguin, owl, tiger, ant, rhino, fish. The animal class is going to be used by the zoo to store information on every animal.
+
+Your class should be able to describe the different animals. It should only contain instance variables that can be used for all the different animal types i.e. no instance variable that is only relevant for a fish etc.
+
+You should as a minimum have instance variables for name, age and sex. It should not be possible to create a new animal without providing these details.
+
+Choose at least three properties (on top of name, age  and sex) that the zoo might want to save about an animal. You should be able to create an animal without setting these properties when you create it.
