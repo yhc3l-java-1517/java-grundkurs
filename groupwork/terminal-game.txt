@@ -1,0 +1,7 @@
+Java Game
+
+Beskrivning  i grupper om tre eller fyra, (detta är inget enskild uppgift) så skall ni designa och konstruera ett enkelt spel. Utformning och komplexitet av spelet är upp till gruppen. Användargränssnittet kommer att begränsas inputs och outputs i terminal.   Varje person i gruppen skall kunna förklara varje kodrad i spelet.   Varje grupp kommer att ha 10 minuter på sig att presentera det färdiga spelet. Detta görs måndagen den fredag 18 sept.
+
+Redovisningen skall innehålla hur  spelet fungerar och hur ni gått tillväga då ni byggt spelet.
+
+Uppgiften inte betyg sätts och räknas inte till slut betyg.

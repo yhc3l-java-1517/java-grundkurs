@@ -1,0 +1,41 @@
+Git command line switchboard.
+You have been given the job of writing the controller functionality of a java version of git.
+
+The input and output of your program to console should be as follows
+
+input -> java Git
+output -> 	Please use one of the following commands
+				add : to add new files to the current branch
+				commit : to commit changes to the current branch
+				push : to push changes from a branch to a remote repository
+				pull : to recieve changes from a remote repository
+
+input -> java Git commit -am "Some message"
+output -> 	Successfully committed
+
+input -> java Git commit 
+output -> 	Please enter a commit message
+input -> Some message
+output -> 	Successfully committed
+
+input -> java Git add
+output -> 	Nothing specified, nothing added.
+		 	Maybe you wanted to say 'Git add -A'?
+
+input -> java Git add -A
+output -> 	Successfully added all files
+
+input -> java Git add somefile.txt
+output -> 	Successfully added somefile.txt
+
+input -> java Git push origin master
+output -> 	Successfully pushed master to origin
+
+input -> java Git push
+output -> 	Successfully pushed current branch to default remote
+
+input -> java Git pull origin master
+output -> 	Successfully pulled origin to master branch
+
+input -> java Git pull
+output -> 	Successfully pulled from default remote
