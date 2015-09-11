@@ -1,4 +1,4 @@
-Git command line switchboard.
+IGit command line switchboard.
 You have been given the job of writing the controller functionality of a java version of git.
 
 The input and output of your program to console should be as follows
