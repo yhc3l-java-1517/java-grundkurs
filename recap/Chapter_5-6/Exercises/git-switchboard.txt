@@ -8,7 +8,7 @@ output -> 	Please use one of the following commands
 				add : to add new files to the current branch
 				commit : to commit changes to the current branch
 				push : to push changes from a branch to a remote repository
-				pull : to recieve changes from a remote repository
+				pull : to receive changes from a remote repository
 
 input -> java Git commit -am "Some message"
 output -> 	Successfully committed

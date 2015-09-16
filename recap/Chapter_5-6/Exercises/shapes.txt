@@ -2,19 +2,19 @@ In this exercise you will create classes that can hold right anngle triangles, r
 
 Rectangle
 1) Create a class called Rectangle
-2) When constructing a rectangle you must specify it's width and height as a decimal number. Write a constuctor that acheives this.
+2) When constructing a rectangle you must specify it's width and height as a decimal number. Write a constructor that acheives this.
 3) A rectangle should have a color, the user can change the color after creating the 
 object. The default color should be blue.
 4) A rectangle has two methods: getArea, getPerimeterLength.
 
 Right Angle triangle
 1) Create a class called RATriangle
-2) When constructing a triangle you must specify it's width and height as a decimal number. Write a constuctor that acheives this.
+2) When constructing a triangle you must specify it's width and height as a decimal number. Write a constructor that acheives this.
 3) A triangle has three methods: getHypotenuseLength, getPerimeterLength, getArea.
 
 Circle.
 1) Create a class called Circle
-2) When defining a circle you must specify it's radius, it should be possible to se t a radius of 3.45. Write a constuctor that acheives this.
+2) When defining a circle you must specify it's radius, it should be possible to se t a radius of 3.45. Write a constructor that acheives this.
 3) A circle should have a color, the user can change the color after creating the 
 object. The default color should be red.
 4) Circle class should have three methods: getArea, getDiameter, getCircumference
